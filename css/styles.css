@@ -120,7 +120,7 @@ p {
   line-height: 3rem;
 }
 
-#testimonials img {
+.testimonial-image {
   border-radius: 50%;
   margin: 20px;
   width: 10%;
